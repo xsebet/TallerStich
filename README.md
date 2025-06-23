@@ -1,0 +1,2 @@
+# TallerStich
+Introduccion IA STICH
